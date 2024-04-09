@@ -1,3 +1,4 @@
+# Hangman game 
 from tkinter import *
 import random
 class Hangman:
